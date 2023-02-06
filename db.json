@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "manikanta"
+    },
+    {
+      "id": 3,
+      "title": "knr"
+    },
+    {
+      "id": 4,
+      "title": "good morning"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
